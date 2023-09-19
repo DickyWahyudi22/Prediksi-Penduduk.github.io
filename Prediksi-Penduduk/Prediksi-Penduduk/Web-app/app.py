@@ -75,6 +75,3 @@ def get_prediction(access_token, *input_values):
 #if __name__ == '__main__':
 #    app.run(debug=False,host='0.0.0.0')
 
-
-
-#Made Dicky Wahyudi 
