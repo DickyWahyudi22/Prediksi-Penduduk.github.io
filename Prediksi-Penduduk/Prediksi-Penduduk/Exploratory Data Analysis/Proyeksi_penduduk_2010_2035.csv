@@ -1,0 +1,398 @@
+propinsi,tahun,kelamin,jumlah
+Aceh,2010,L,2255
+Aceh,2010,P,2268.1
+Aceh,2015,L,2497.5
+Aceh,2015,P,2504.5
+Aceh,2020,L,2728.2
+Aceh,2020,P,2731.7
+Aceh,2025,L,2933.3
+Aceh,2025,P,2936.7
+Aceh,2030,L,3110.3
+Aceh,2030,P,3117.3
+Aceh,2035,L,3264.2
+Aceh,2035,P,3277.2
+Sumatera Utara,2010,L,6494.6
+Sumatera Utara,2010,P,6534.1
+Sumatera Utara,2015,L,6954.6
+Sumatera Utara,2015,P,6983.2
+Sumatera Utara,2020,L,7335.8
+Sumatera Utara,2020,P,7367.7
+Sumatera Utara,2025,L,7632.4
+Sumatera Utara,2025,P,7678.8
+Sumatera Utara,2030,L,7847.6
+Sumatera Utara,2030,P,7916.1
+Sumatera Utara,2035,L,7990.3
+Sumatera Utara,2035,P,8083.1
+Sumatera Barat,2010,L,2409.2
+Sumatera Barat,2010,P,2456.1
+Sumatera Barat,2015,L,2584.2
+Sumatera Barat,2015,P,2612.1
+Sumatera Barat,2020,L,2741.6
+Sumatera Barat,2020,P,2757.2
+Sumatera Barat,2025,L,2874.4
+Sumatera Barat,2025,P,2883.4
+Sumatera Barat,2030,L,2981.1
+Sumatera Barat,2030,P,2987.2
+Sumatera Barat,2035,L,3062.6
+Sumatera Barat,2035,P,3067.8
+Riau,2010,L,2866.9
+Riau,2010,P,2708
+Riau,2015,L,3257.6
+Riau,2015,P,3086.8
+Riau,2020,L,3654
+Riau,2020,P,3474.3
+Riau,2025,L,4041.2
+Riau,2025,P,3857.3
+Riau,2030,L,4413.2
+Riau,2030,P,4230.1
+Riau,2035,L,4770.1
+Riau,2035,P,4592.9
+Jambi,2010,L,1586.1
+Jambi,2010,P,1521.5
+Jambi,2015,L,1736.1
+Jambi,2015,P,1666
+Jambi,2020,L,1875.8
+Jambi,2020,P,1802.1
+Jambi,2025,L,2000.7
+Jambi,2025,P,1925.9
+Jambi,2030,L,2107.7
+Jambi,2030,P,2034.6
+Jambi,2035,L,2196
+Jambi,2035,P,2126.9
+Sumatera Selatan,2010,L,3801.8
+Sumatera Selatan,2010,P,3679.8
+Sumatera Selatan,2015,L,4092.2
+Sumatera Selatan,2015,P,3960.1
+Sumatera Selatan,2020,L,4352.1
+Sumatera Selatan,2020,P,4215.8
+Sumatera Selatan,2025,L,4567.5
+Sumatera Selatan,2025,P,4432.9
+Sumatera Selatan,2030,L,4736.4
+Sumatera Selatan,2030,P,4608.8
+Sumatera Selatan,2035,L,4864.1
+Sumatera Selatan,2035,P,4746.6
+Bengkulu,2010,L,878.9
+Bengkulu,2010,P,843.2
+Bengkulu,2015,L,956.2
+Bengkulu,2015,P,918.7
+Bengkulu,2020,L,1028.8
+Bengkulu,2020,P,991
+Bengkulu,2025,L,1093.6
+Bengkulu,2025,P,1056.9
+Bengkulu,2030,L,1149.1
+Bengkulu,2030,P,1115.2
+Bengkulu,2035,L,1195.4
+Bengkulu,2035,P,1165.2
+Lampung,2010,L,3922.8
+Lampung,2010,P,3711.2
+Lampung,2015,L,4162.5
+Lampung,2015,P,3954.8
+Lampung,2020,L,4359.9
+Lampung,2020,P,4161.3
+Lampung,2025,L,4504.3
+Lampung,2025,P,4320.3
+Lampung,2030,L,4595.8
+Lampung,2030,P,4430.4
+Lampung,2035,L,4640
+Lampung,2035,P,4496.1
+Bangka Belitung,2010,L,637.5
+Bangka Belitung,2010,P,592.7
+Bangka Belitung,2015,L,713.2
+Bangka Belitung,2015,P,659.6
+Bangka Belitung,2020,L,789.7
+Bangka Belitung,2020,P,727.9
+Bangka Belitung,2025,L,863.3
+Bangka Belitung,2025,P,794.2
+Bangka Belitung,2030,L,932.1
+Bangka Belitung,2030,P,856.8
+Bangka Belitung,2035,L,995.8
+Bangka Belitung,2035,P,915.2
+Kepulauan Riau,2010,L,867.7
+Kepulauan Riau,2010,P,825.1
+Kepulauan Riau,2015,L,1007.9
+Kepulauan Riau,2015,P,965.1
+Kepulauan Riau,2020,L,1141.7
+Kepulauan Riau,2020,P,1100.5
+Kepulauan Riau,2025,L,1268
+Kepulauan Riau,2025,P,1233.5
+Kepulauan Riau,2030,L,1395.9
+Kepulauan Riau,2030,P,1372.6
+Kepulauan Riau,2035,L,1529.7
+Kepulauan Riau,2035,P,1520.8
+DKI Jakarta,2010,L,4879
+DKI Jakarta,2010,P,4761.4
+DKI Jakarta,2015,L,5115.3
+DKI Jakarta,2015,P,5062.6
+DKI Jakarta,2020,L,5324.8
+DKI Jakarta,2020,P,5320.2
+DKI Jakarta,2025,L,5504
+DKI Jakarta,2025,P,5530
+DKI Jakarta,2030,L,5629.6
+DKI Jakarta,2030,P,5680.4
+DKI Jakarta,2035,L,5690.2
+DKI Jakarta,2035,P,5769.4
+Jawa Barat,2010,L,21955.3
+Jawa Barat,2010,P,21271.8
+Jawa Barat,2015,L,23681
+Jawa Barat,2015,P,23028.6
+Jawa Barat,2020,L,25265.2
+Jawa Barat,2020,P,24670.5
+Jawa Barat,2025,L,26645.5
+Jawa Barat,2025,P,26140.2
+Jawa Barat,2030,L,27789.5
+Jawa Barat,2030,P,27404.3
+Jawa Barat,2035,L,28688.9
+Jawa Barat,2035,P,28448.4
+Jawa Tengah,2010,L,16091.6
+Jawa Tengah,2010,P,16352.3
+Jawa Tengah,2015,L,16750.9
+Jawa Tengah,2015,P,17023.2
+Jawa Tengah,2020,L,17320.1
+Jawa Tengah,2020,P,17620
+Jawa Tengah,2025,L,17809.7
+Jawa Tengah,2025,P,18148.9
+Jawa Tengah,2030,L,18182.4
+Jawa Tengah,2030,P,18569.3
+Jawa Tengah,2035,L,18391.5
+Jawa Tengah,2035,P,18827.9
+DI Yogyakarta,2010,L,1710.9
+DI Yogyakarta,2010,P,1756.6
+DI Yogyakarta,2015,L,1818.8
+DI Yogyakarta,2015,P,1860.4
+DI Yogyakarta,2020,L,1921.6
+DI Yogyakarta,2020,P,1960.7
+DI Yogyakarta,2025,L,2013.2
+DI Yogyakarta,2025,P,2051.4
+DI Yogyakarta,2030,L,2090.7
+DI Yogyakarta,2030,P,2129.5
+DI Yogyakarta,2035,L,2153.8
+DI Yogyakarta,2035,P,2194.7
+Jawa Timur,2010,L,18512.6
+Jawa Timur,2010,P,19053.2
+Jawa Timur,2015,L,19172.4
+Jawa Timur,2015,P,19675.2
+Jawa Timur,2020,L,19693.8
+Jawa Timur,2020,P,20192.5
+Jawa Timur,2025,L,20061.7
+Jawa Timur,2025,P,20584.4
+Jawa Timur,2030,L,20255.6
+Jawa Timur,2030,P,20821.7
+Jawa Timur,2035,L,20256
+Jawa Timur,2035,P,20871.7
+Banten,2010,L,5458.5
+Banten,2010,P,5230.1
+Banten,2015,L,6097.1
+Banten,2015,P,5858.1
+Banten,2020,L,6700.1
+Banten,2020,P,6460.4
+Banten,2025,L,7238
+Banten,2025,P,7011
+Banten,2030,L,7701
+Banten,2030,P,7500.8
+Banten,2035,L,8097.6
+Banten,2035,P,7935.5
+Bali,2010,L,1966.2
+Bali,2010,P,1941.2
+Bali,2015,L,2091
+Bali,2015,P,2061.8
+Bali,2020,L,2206.2
+Bali,2020,P,2174.6
+Bali,2025,L,2309.2
+Bali,2025,P,2276.8
+Bali,2030,L,2398.5
+Bali,2030,P,2366.9
+Bali,2035,L,2471.1
+Bali,2035,P,2441.3
+Nusa Tenggara Barat,2010,L,2187.4
+Nusa Tenggara Barat,2010,P,2328.7
+Nusa Tenggara Barat,2015,L,2345.8
+Nusa Tenggara Barat,2015,P,2489.8
+Nusa Tenggara Barat,2020,L,2488.8
+Nusa Tenggara Barat,2020,P,2636.8
+Nusa Tenggara Barat,2025,L,2611.2
+Nusa Tenggara Barat,2025,P,2764.4
+Nusa Tenggara Barat,2030,L,2712.7
+Nusa Tenggara Barat,2030,P,2871.1
+Nusa Tenggara Barat,2035,L,2795.9
+Nusa Tenggara Barat,2035,P,2958.3
+Nusa Tenggara Timur,2010,L,2333
+Nusa Tenggara Timur,2010,P,2373.2
+Nusa Tenggara Timur,2015,L,2536.9
+Nusa Tenggara Timur,2015,P,2583.2
+Nusa Tenggara Timur,2020,L,2744.2
+Nusa Tenggara Timur,2020,P,2797.2
+Nusa Tenggara Timur,2025,L,2955.2
+Nusa Tenggara Timur,2025,P,3015.6
+Nusa Tenggara Timur,2030,L,3167.4
+Nusa Tenggara Timur,2030,P,3234.8
+Nusa Tenggara Timur,2035,L,3377.8
+Nusa Tenggara Timur,2035,P,3451.3
+Kalimantan Barat,2010,L,2251.8
+Kalimantan Barat,2010,P,2159.6
+Kalimantan Barat,2015,L,2439.9
+Kalimantan Barat,2015,P,2349.7
+Kalimantan Barat,2020,L,2610.5
+Kalimantan Barat,2020,P,2524.3
+Kalimantan Barat,2025,L,2756
+Kalimantan Barat,2025,P,2676.6
+Kalimantan Barat,2030,L,2874.6
+Kalimantan Barat,2030,P,2804.6
+Kalimantan Barat,2035,L,2968.7
+Kalimantan Barat,2035,P,2909.4
+Kalimantan Tengah,2010,L,1156.3
+Kalimantan Tengah,2010,P,1064.5
+Kalimantan Tengah,2015,L,1302.8
+Kalimantan Tengah,2015,P,1192.2
+Kalimantan Tengah,2020,L,1449.3
+Kalimantan Tengah,2020,P,1319.9
+Kalimantan Tengah,2025,L,1589.1
+Kalimantan Tengah,2025,P,1441.9
+Kalimantan Tengah,2030,L,1718.5
+Kalimantan Tengah,2030,P,1555.1
+Kalimantan Tengah,2035,L,1836
+Kalimantan Tengah,2035,P,1658.5
+Kalimantan Selatan,2010,L,1841
+Kalimantan Selatan,2010,P,1801.6
+Kalimantan Selatan,2015,L,2022
+Kalimantan Selatan,2015,P,1967.8
+Kalimantan Selatan,2020,L,2184.7
+Kalimantan Selatan,2020,P,2119.3
+Kalimantan Selatan,2025,L,2325.5
+Kalimantan Selatan,2025,P,2252.8
+Kalimantan Selatan,2030,L,2445.5
+Kalimantan Selatan,2030,P,2368.7
+Kalimantan Selatan,2035,L,2547.5
+Kalimantan Selatan,2035,P,2468.8
+Kalimantan Timur,2010,L,1880.5
+Kalimantan Timur,2010,P,1695.6
+Kalimantan Timur,2015,L,2138.1
+Kalimantan Timur,2015,P,1930.5
+Kalimantan Timur,2020,L,2395.4
+Kalimantan Timur,2020,P,2166.3
+Kalimantan Timur,2025,L,2644
+Kalimantan Timur,2025,P,2396.7
+Kalimantan Timur,2030,L,2879.3
+Kalimantan Timur,2030,P,2617.7
+Kalimantan Timur,2035,L,3100.5
+Kalimantan Timur,2035,P,2828.7
+Sulawesi Utara,2010,L,1161.5
+Sulawesi Utara,2010,P,1116.2
+Sulawesi Utara,2015,L,1230.8
+Sulawesi Utara,2015,P,1181.3
+Sulawesi Utara,2020,L,1289.7
+Sulawesi Utara,2020,P,1239.1
+Sulawesi Utara,2025,L,1336.7
+Sulawesi Utara,2025,P,1287.6
+Sulawesi Utara,2030,L,1370.8
+Sulawesi Utara,2030,P,1325.3
+Sulawesi Utara,2035,L,1392.2
+Sulawesi Utara,2035,P,1351.5
+Sulawesi Tengah,2010,L,1354
+Sulawesi Tengah,2010,P,1292
+Sulawesi Tengah,2015,L,1469.6
+Sulawesi Tengah,2015,P,1407.1
+Sulawesi Tengah,2020,L,1579.7
+Sulawesi Tengah,2020,P,1517.3
+Sulawesi Tengah,2025,L,1680
+Sulawesi Tengah,2025,P,1619.5
+Sulawesi Tengah,2030,L,1769
+Sulawesi Tengah,2030,P,1711.6
+Sulawesi Tengah,2035,L,1847
+Sulawesi Tengah,2035,P,1793.8
+Sulawesi Selatan,2010,L,3929.4
+Sulawesi Selatan,2010,P,4131
+Sulawesi Selatan,2015,L,4161
+Sulawesi Selatan,2015,P,4359.3
+Sulawesi Selatan,2020,L,4364.6
+Sulawesi Selatan,2020,P,4563.4
+Sulawesi Selatan,2025,L,4531.3
+Sulawesi Selatan,2025,P,4734.2
+Sulawesi Selatan,2030,L,4655.9
+Sulawesi Selatan,2030,P,4865.8
+Sulawesi Selatan,2035,L,4738.9
+Sulawesi Selatan,2035,P,4957.1
+Sulawesi Tenggara,2010,L,1125.3
+Sulawesi Tenggara,2010,P,1118.3
+Sulawesi Tenggara,2015,L,1256
+Sulawesi Tenggara,2015,P,1243.5
+Sulawesi Tenggara,2020,L,1386.6
+Sulawesi Tenggara,2020,P,1369
+Sulawesi Tenggara,2025,L,1512.3
+Sulawesi Tenggara,2025,P,1490.7
+Sulawesi Tenggara,2030,L,1631.2
+Sulawesi Tenggara,2030,P,1606.5
+Sulawesi Tenggara,2035,L,1742.4
+Sulawesi Tenggara,2035,P,1715.7
+Gorontalo,2010,L,523.2
+Gorontalo,2010,P,521.6
+Gorontalo,2015,L,567.7
+Gorontalo,2015,P,565.5
+Gorontalo,2020,L,610.9
+Gorontalo,2020,P,608.7
+Gorontalo,2025,L,650.7
+Gorontalo,2025,P,649
+Gorontalo,2030,L,685.5
+Gorontalo,2030,P,684.7
+Gorontalo,2035,L,714.7
+Gorontalo,2035,P,715.4
+Sulawesi Barat,2010,L,583.4
+Sulawesi Barat,2010,P,581.2
+Sulawesi Barat,2015,L,643.2
+Sulawesi Barat,2015,P,639
+Sulawesi Barat,2020,L,705.3
+Sulawesi Barat,2020,P,699.7
+Sulawesi Barat,2025,L,767.4
+Sulawesi Barat,2025,P,760.4
+Sulawesi Barat,2030,L,827.6
+Sulawesi Barat,2030,P,819.6
+Sulawesi Barat,2035,L,886.1
+Sulawesi Barat,2035,P,877.2
+Maluku,2010,L,778.3
+Maluku,2010,P,763.6
+Maluku,2015,L,850.7
+Maluku,2015,P,835.8
+Maluku,2020,L,923.2
+Maluku,2020,P,908.7
+Maluku,2025,L,993.2
+Maluku,2025,P,979.5
+Maluku,2030,L,1058.4
+Maluku,2030,P,1045.8
+Maluku,2035,L,1119.6
+Maluku,2035,P,1108.2
+Maluku Utara,2010,L,533.1
+Maluku Utara,2010,P,510.2
+Maluku Utara,2015,L,593.2
+Maluku Utara,2015,P,569.1
+Maluku Utara,2020,L,651.8
+Maluku Utara,2020,P,627
+Maluku Utara,2025,L,707.9
+Maluku Utara,2025,P,683.1
+Maluku Utara,2030,L,761.8
+Maluku Utara,2030,P,737.6
+Maluku Utara,2035,L,813.5
+Maluku Utara,2035,P,790.1
+Papua Barat,2010,L,404.3
+Papua Barat,2010,P,361
+Papua Barat,2015,L,459.3
+Papua Barat,2015,P,412.2
+Papua Barat,2020,L,516.2
+Papua Barat,2020,P,465.6
+Papua Barat,2025,L,573
+Papua Barat,2025,P,519.2
+Papua Barat,2030,L,628.3
+Papua Barat,2030,P,571.8
+Papua Barat,2035,L,681.8
+Papua Barat,2035,P,623.2
+Papua,2010,L,1515.6
+Papua,2010,P,1341.4
+Papua,2015,L,1661.2
+Papua,2015,P,1488.2
+Papua,2020,L,1802.2
+Papua,2020,P,1633.2
+Papua,2025,L,1931.4
+Papua,2025,P,1770.3
+Papua,2030,L,2044.3
+Papua,2030,P,1895.1
+Papua,2035,L,2139.1
+Papua,2035,P,2005.5
+

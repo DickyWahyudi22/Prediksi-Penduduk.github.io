@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Students Adaptability Level in Online Education Prediction Web - by O.
+      Midiyanto
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+  </head>
+  <body>
+    <nav class="nav">
+      <!-- <span></span> -->
+      <img
+        class="imgIBM github-nav"
+        src="{{ url_for('static', filename='IL.png') }}"
+        alt=""
+      />
+      <h1>Prediksi Jumlah Penduduk</h1>
+      <div></div>
+    </nav>
+    <div class="container">
+      <!-- <h1>Students Adaptability Level in Online Education Prediction</h1> -->
+      <form method="POST">
+        <div class="form-group">
+          <label for="kelamin">kelamin:</label>
+          <select class="select-box" name="kelamin" id="kelamin" required>
+            <option value="l">laki-laki</option>
+            <option value="p">perempuan</option>
+          </select>
+        </div>
+
+        <<div class="form-group">
+          <label for="tahun">tahun:</label>
+          <input type="text" class="form-control" name="tahun" id="tahun" required>
+      </div>
+      
+      <div class="form-group">
+        <label for="propinsi">Propinsi:</label>
+        <input type="text" class="form-control" name="propinsi" id="propinsi" required>
+    </div>    
+        </div>
+
+    
+        <input type="submit" value="Predict" />
+      </form>
+
+      {% if prediction %}
+      <div class="result">
+        <h2>Prediction Result</h2>
+        <p>Adaptivity Level: 
+          {% if prediction == 'High' %}
+            <span class="high">{{prediction}}</span>
+          {% endif%}
+          {% if prediction == 'Moderate' %}
+            <span class="moderate">{{prediction}}</span>
+          {% endif%}
+          {% if prediction == 'Low' %}
+            <span class="low">{{prediction}}</span>
+          {% endif%}
+        </p>
+      </div>
+      {% endif %}
+    </div>
+    <footer class="footer">
+      <img class="" src="{{ url_for('static', filename='IBM.png') }}" alt="" />
+      <img
+        class="imgBottom"
+        src="{{ url_for('static', filename='diagram-removebg-preview.png') }}"
+        alt=""
+      />
+      <img class="imgIL" src="{{ url_for('static', filename='IL.png') }}" alt="" />
+      <a href="https://github.com/omidiyanto/student-adaptability-prediction">
+        <img src="{{ url_for('static', filename='GitHub-Logo.png') }}" alt="Deskripsi gambar" />
+      </a>
+    </footer>
+  </body>
+</html>
