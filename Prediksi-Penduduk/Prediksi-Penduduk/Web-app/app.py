@@ -34,7 +34,7 @@ def get_access_token():
     url = "https://iam.cloud.ibm.com/oidc/token"
     headers = CaseInsensitiveDict()
     headers["Content-Type"] = "application/x-www-form-urlencoded"
-    data = "grant_type=urn:ibm:params:oauth:grant-type:apikey&apikey=ded63fa1-6c3b-4400-8558-d14a5ade6266"
+    data = "grant_type=urn:ibm:params:oauth:grant-type:apikey&apikey=vAMt1urP2knMQ9jW4vuohFCRD4kdBZUWmATR-HRhMDPD"
     resp = requests.post(url, headers=headers, data=data)
     if resp.status_code == 200:
         json_resp = resp.json()
